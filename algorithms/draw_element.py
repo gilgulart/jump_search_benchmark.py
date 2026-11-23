@@ -1,5 +1,5 @@
 import random
-from generate_lists import data
+from algorithms.generate_lists import data
 
 def draw_element(arr: list[int]):
     element_choice = random.choice(arr)

@@ -1,13 +1,13 @@
-from jump_search import jump_search, jump_search_count
+from algorithms.jump_search import jump_search, jump_search_count
 
-from merge_sort import (
+from algorithms.merge_sort import (
     arr_1_000,
     arr_10_000,
     arr_50_000,
     arr_100_000
 )
 
-from draw_element import (
+from algorithms.draw_element import (
     element_1_000,
     element_10_000,
     element_50_000,

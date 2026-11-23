@@ -1,7 +1,7 @@
 import csv
 from pathlib import Path
-from jump_search import jump_search_count
-from merge_sort import (
+from algorithms.jump_search import jump_search_count
+from algorithms.merge_sort import (
     arr_1_000,
     arr_10_000,
     arr_50_000,

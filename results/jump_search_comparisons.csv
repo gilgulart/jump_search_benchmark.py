@@ -1,5 +1,5 @@
 algorithm,list_size,target,index,comparisons
-Jump Search,1000,9998,999,48
-Jump Search,10000,99995,9999,299
-Jump Search,50000,499994,49999,320
-Jump Search,100000,999978,99999,604
+Jump Search,1000,9993,999,48
+Jump Search,10000,99975,9999,299
+Jump Search,50000,499997,49999,320
+Jump Search,100000,999993,99999,604
